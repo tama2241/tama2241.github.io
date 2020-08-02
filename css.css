@@ -5,8 +5,7 @@ body{
     background-image: url(Backgroud1.jpg);
     background-size: cover;
     background-position: center;
-    background-color: black;
-    background-repeat: no-repeat;
+    background-repeat: initial;
     font-size: 15;
     height: 100%;
     font-family: verdana;
