@@ -5,13 +5,14 @@ body{
     background-image: url(Backgroud1.jpg);
     background-size: cover;
     background-position: center;
-    background-repeat: initial;
+    background-repeat: no-repeat;
     font-size: 15;
     height: 100%;
     font-family: verdana;
 }
 .table{
     border: transparent;
+    align:center;
     background: transparent;
     width: 100%;
 }
@@ -32,7 +33,7 @@ a:hover{
     text-decoration-line: none;
 }
 b{
-    text-align: center;
+    align: center;
     color: black ;
 }
 .judul{
