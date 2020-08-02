@@ -1,0 +1,47 @@
+body{
+    background-image: url(Backgroud1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    font-size: 15;
+    font-family: verdana;
+}
+.table{
+    border: transparent;
+    background: transparent;
+    width: 50%;
+    height: 50%;
+}
+a{
+    text-decoration: none;
+    text-decoration-line: underline;
+}
+a:hover{
+    color:yellow;
+    background-color: greenyellow;
+}
+.nama{
+    text-align: center;
+    font-size: 15pt;
+    text-transform: capitalize;
+    color:blue ;
+    font-weight: bold;
+    text-decoration-line: none;
+}
+b{
+    text-align: center;
+    color: black ;
+}
+.judul{
+    font-weight: bold;
+    font-size:30pt;
+}
+.info{
+    color: rgb(0, 255, 13);
+    font-weight: bolder;
+}
+.jawab{
+    color:ivory;
+    background-color: transparent;
+}
